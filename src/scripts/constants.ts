@@ -34,3 +34,10 @@ export const adjacentOffsets = [
         y: 0,
     },
 ]
+export enum LabourTypes {
+    agriculture,
+    service,
+    programming,
+    engineering,
+
+}

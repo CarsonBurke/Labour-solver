@@ -1,7 +1,7 @@
 {
-    "name": "hexecon",
+    "name": "labour-solver",
     "version": "0.1.0",
-    "homepage": "https://carsonburke.github.io/hexecon",
+    "homepage": "https://carsonburke.github.io/labour-solver",
     "private": false,
     "description": "",
     "dependencies": {
